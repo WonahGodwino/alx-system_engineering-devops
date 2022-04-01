@@ -1,2 +1,2 @@
 #!/bin/bash
-sedo chown hello
+sedo chown betty hello
