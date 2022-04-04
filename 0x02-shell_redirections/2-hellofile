@@ -1,2 +1,2 @@
-#!/bin/bas
-cat /etc/paswd
+#!/bin/bash
+cat /etc/passwd
