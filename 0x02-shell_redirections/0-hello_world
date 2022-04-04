@@ -1,2 +1,2 @@
-Hello, World
-Bash scripting is awesome
+#!/bin/bash
+echo "Hello, World"
