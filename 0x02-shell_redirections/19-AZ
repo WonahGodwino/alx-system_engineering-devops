@@ -1,0 +1,4 @@
+#!/bin/bash
+tr "A" "z" | tr "e" "e" >> 19-AZ
+eeho tr A z
+tr "A" "z" | tr "c" "e"
